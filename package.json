@@ -31,6 +31,7 @@
         "react-router-dom": "^6.20.1",
         "react-three-fiber": "^6.0.13",
         "three": "^0.165.0",
+        "three-stdlib": "^2.30.3",
         "use-asset": "^1.0.4"
     },
     "prettier": {

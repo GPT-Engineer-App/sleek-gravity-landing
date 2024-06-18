@@ -1,7 +1,8 @@
 import React, { useRef, useState, useEffect } from "react";
 import { Canvas, useFrame } from "@react-three/fiber";
-import { OrbitControls, Stars } from "drei";
+import { OrbitControls, Stars } from "@react-three/drei";
 import { Container, Text, VStack, Box } from "@chakra-ui/react";
+import { DeviceOrientationControls } from "three/examples/jsm/controls/DeviceOrientationControls";
 
 
 
